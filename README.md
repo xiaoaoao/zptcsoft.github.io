@@ -13,6 +13,7 @@ Web前端开发工程师，主要职责是利用(X)HTML/CSS/JavaScript/Flash等�
 ### 软件151
 [04尹飞燕](https://github.com/Ysidm/zptcsoft.github.io/)
 [05全凯俊](https://github.com/zptcwed/yyQKJ.github.io)
+[06马驰傲](https://github.com/xiaoaoao/xiaoaoao.github.io)
 [07张铸涛](https://github.com/jhzzt/zptcsoft.github.io)
 [12任军](https://github.com/Ghostrj/Ghostrj.github.io)
 [14潘佳琦](https://github.com/pjq123456/pjq123456.github.io) 
